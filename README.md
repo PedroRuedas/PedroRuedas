@@ -5,6 +5,8 @@
 
 ![Pedro Ruedas GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroRuedas&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRuedas&layout=compact)
+
 ## Tecnologias que eu utilizo no meu dia
 
 <div style="display: inline_block"><br/>
